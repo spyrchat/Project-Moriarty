@@ -3,7 +3,7 @@ torchvision
 torchaudio
 git+https://github.com/openai/whisper.git 
 pyaudio
-Numpy as np
+Numpy
 ffmpeg-python
 transformers
 detoxify
