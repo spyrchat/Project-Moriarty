@@ -2,7 +2,6 @@ torch
 torchvision
 torchaudio
 git+https://github.com/openai/whisper.git 
-libasound2-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg
 pyaudio
 Numpy as np
 ffmpeg-python
