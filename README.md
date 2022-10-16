@@ -4,6 +4,8 @@ We are building solutions to stop harrashment and hate speech in online voice co
 
 This project was build as project for openAI's Whisper hackathon. We intend to continue working on it in order to implement more useful features such as Real Time Speech Recognition, Multilinguality and more
 
+Here is a link with our presentation: https://www.canva.com/design/DAFPGvMqwIk/KbN69ps29X0USU02Uip_wA/view?website#4:intro
+
 ## Whisper 
 
 Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
