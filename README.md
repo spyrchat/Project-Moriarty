@@ -27,3 +27,17 @@ There are five model sizes, four with English-only versions, offering speed and 
 | large  |   1550 M   |        N/A         |      `large`       |    ~10 GB     |       1x       |
 
 For English-only applications, the `.en` models tend to perform better, especially for the `tiny.en` and `base.en` models. We observed that the difference becomes less significant for the `small.en` and `medium.en` models.
+## Credits
+Athanasiadou Christina ECE AUTH, https://github.com/christina-ath
+
+Chatzigeorgiou Spiros ECE AUTH, https://github.com/Themanwhosoldtheworldd 
+
+https://github.com/openai/whisper
+
+https://github.com/unitaryai/detoxify
+
+
+
+
+
+
