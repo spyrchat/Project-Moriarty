@@ -32,9 +32,9 @@ Athanasiadou Christina ECE AUTH, https://github.com/christina-ath
 
 Chatzigeorgiou Spiros ECE AUTH, https://github.com/Themanwhosoldtheworldd 
 
-https://github.com/openai/whisper
+Whisper: https://github.com/openai/whisper
 
-https://github.com/unitaryai/detoxify
+Detoxify: https://github.com/unitaryai/detoxify
 
 
 
