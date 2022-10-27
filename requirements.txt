@@ -2,6 +2,9 @@ torch
 torchvision
 torchaudio
 git+https://github.com/openai/whisper.git 
+git+https://github.com/unitaryai/detoxify/releases/download/v0.1-alpha/toxic_original-c1212f89.ckpt
+git+https://github.com/unitaryai/detoxify/releases/download/v0.4-alpha/multilingual_debiased-0b549669.ckpt
+git+https://github.com/unitaryai/detoxify/releases/download/v0.3-alpha/toxic_debiased-c7548aa0.ckpt
 pyaudio
 Numpy
 ffmpeg-python
