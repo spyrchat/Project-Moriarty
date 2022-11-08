@@ -11,3 +11,4 @@ ffmpeg-python
 transformers
 detoxify
 pandas
+streamlit
