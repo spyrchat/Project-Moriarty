@@ -1,5 +1,7 @@
 # Project-Moriarty
-![logo](https://user-images.githubusercontent.com/79098250/196054331-e06a169e-a848-4266-9943-b5424eccd63d.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79098250/196054331-e06a169e-a848-4266-9943-b5424eccd63d.png">
+</p>
 
 We are building solutions to stop harrashment and hate speech in online voice communication. The project's goal in this state, is to take user input using the default system microphone and transcode the speech to text. After that a model (unitaryai/detoxify) is used to classify the text produced from whisper as toxic, severe_toxic, obscene, threat, insult, identity_atttack.
 ## OpenAI Whisper Hackathon
